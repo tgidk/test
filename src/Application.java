@@ -8,7 +8,10 @@ public class Application {
 		list.add("cat");
 
 		String animal = list.get(0);
+		
+		System.out.println(animal);
 
 	}
 
 }
+	
